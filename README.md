@@ -4,9 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hayai.fr/)
 ![Discord](https://img.shields.io/badge/@bielfast-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvtvt&show_icons=true&theme=graywhite)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvtvt&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvtvt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvtvt&langs_count=8)
 
 
 ### Tecnologias que eu utilizo 👨‍💻
