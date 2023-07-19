@@ -1,28 +1,43 @@
-👋 Olá! Eu sou o Gabriel, um entusiasta de programação apaixonado por construir soluções inovadoras e ajudar as pessoas.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=120&section=header"/>
 
-💻 Com uma sólida formação em desenvolvimento de software, adoro explorar diferentes tecnologias e linguagens para transformar ideias em código funcional. Minha paixão pela programação me impulsiona a aprender continuamente e a aprimorar minhas habilidades.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00aaff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Vitor;I'm+19+years+old;I'm+from+Brazil;I+Study+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-🌱 Ao longo da minha jornada, tenho me envolvido em projetos desafiadores, com foco tanto no desenvolvimento frontend quanto no backend. Adoro criar interfaces intuitivas e cativantes, utilizando tecnologias como HTML, CSS e JavaScript.
-
-🤝 Estou sempre aberto a oportunidades de colaboração e aprendizado. Se você está procurando ajuda em um projeto emocionante ou gostaria de discutir ideias interessantes, sinta-se à vontade para entrar em contato. Vamos construir coisas incríveis juntos!
-
-📫 Você pode me encontrar aqui no GitHub, onde estou compartilhando projetos pessoais, contribuições em repositórios de código aberto e explorando o mundo da tecnologia.
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vitor-cabral-86041423b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hayai.fr/)
-![Discord](https://img.shields.io/badge/@bielfast-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvtvt&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvtvt&langs_count=8)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielvtvt&bg_color=000000&color=ffffff&line=ffffff&point=00aaff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### Tecnologias que eu utilizo 👨‍💻
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielvtvt&theme=onestar" />
+</p>
 
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielvtvt&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000" alt="Gabriel Vitor's github stats" /> 
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvtvt&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000" />
+</div>
+
+
+<div align="center"> 
+<a href="https://instagram.com/hayai.fr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+ style="border-radius: 30px"</a>
+<a href = "mailto:zgabrielp3@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-vitor-cabral-86041423b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Main skills:
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 30px"> 
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 30px"> 
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 30px"> 
 </div><br/>
 
-Entusiasta de tecnologia e educação, buscando transformar vidas por meio da programação!!
+
+### Studying in this moment:
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 30px"> 
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 30px"> 
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 30px"> 
+</div><br/>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=120&section=footer"/>
